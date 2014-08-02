@@ -1,5 +1,6 @@
 # This is the base code for v0.1 of our Ruby text analyzer.
 # Visit https://github.com/codeunion/text-analysis/wiki to see what to do.
+
 #
 # Send an email to your cohort mailing list if you have any questions
 # or you're stuck!  These comments are here to help you, but please delete them
